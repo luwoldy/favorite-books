@@ -1,5 +1,5 @@
 ## View App deployed on Surge
-[leuls-fav-books.surge.sh](leuls-fav-books.surge.sh)
+[leuls-fav-books.surge.sh](http://leuls-fav-books.surge.sh/)
 
 ## Notes
 Didn't include server side code
