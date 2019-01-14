@@ -1,3 +1,11 @@
+## View App deployed on Surge
+leuls-fav-books.surge.sh
+
+## Notes
+Didn't include server side code
+This project was created to test out GraphQL (Which turned out awesome) based on a Freecodecamp Tutorial
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
